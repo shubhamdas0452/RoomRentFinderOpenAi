@@ -24,7 +24,7 @@ pgs = [
         "name": "City Homes",
         "rent": 6500,
         "room": "single",
-        "food": False,
+        "food": True,
         "wifi": True,
         "distance": 4.5
     },
