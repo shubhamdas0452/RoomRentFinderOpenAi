@@ -35,6 +35,14 @@ pgs = [
         "food": True,
         "wifi": True,
         "distance": 3.8
+    },
+    {
+        "name": "Waterside Stay",
+        "rent": 9000,
+        "room": "double",
+        "food": True,
+        "wifi": True,
+        "distance": 5.8
     }
 ]
 
